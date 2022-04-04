@@ -5,14 +5,10 @@ Hoje minha experiência resumida seria:
 * 11 anos com e-commerce
 * 7 anos com Plataformas SASS
 * 6 anos com Laravel. 
-
-Também trabalho muito com: Lumen, Slim, Codeigniter, VueJS, Angular.
-
-Experiente em testes unitários, integração e ponta a ponta.
-
-Tenho ampla experiência em metodologias Ágeis.
-
-Sou energético, independente e capaz de navegar por situações de alto estresse para atingimento de objetivos.
+* Também trabalho muito com: Lumen, Slim, Codeigniter, VueJS, Angular.
+* Experiente em testes unitários, integração e ponta a ponta.
+* Tenho ampla experiência em metodologias Ágeis.
+* Sou energético, independente e capaz de navegar por situações de alto estresse para atingimento de objetivos.
 
 ### Áreas que trabalhei (Mais Recentes Primeiro)
 
