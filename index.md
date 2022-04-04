@@ -52,7 +52,11 @@ Não senti a necessidade de ter uma formação profissional, a faculdade não en
 * Especialista na resolução de problemas para encontrar, traçar uma resolução, corrigir, testar, aplicar testes automatizados.
 
 ### Idiomas
-Inglês Avançado
+Inglês Avançado (Consigo ler/escrever sem nenhuma dificuldade, consigo escutar e entender 95% das falas, consigo falar muito em inglês também, porém como não pratico muito no dia a dia, tenho um pouco de dificuldades, mas pretendo trabalhar nisso pra não ter nenhuma barreira)
 
 ### Por que devo ser contratado?
 Não sou apenas mais um programador no mundo, sou um programador que é apaixonado pelo que faz, adora aprender sempre coisas novas, não tem medo de um desafio e dá o jeito de entregar o trabalho sempre com a melhor qualidade possível. Sou muito exigente consigo mesmo.
+
+### Contatos
+* E-mail pessoal: dilnei.soethe@gmail.com
+* Linkedin: https://www.linkedin.com/in/dilnei-soethe-spancerski-bn-sc/
