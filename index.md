@@ -36,7 +36,7 @@ Hoje minha experiência resumida seria:
 * Criação e manutenção de redes de computadores em empresas, escolas, órgãos públicos, hospitais e residências.
 
 ### Formação
-Não senti a necessidade de ter uma formação profissional, a faculdade não ensina tudo que eu preciso saber, os salários em nossa cidade infelizmente são muito baixo, então não tive condições de pagar uma faculdade para tal, porém em compensação, eu consumi muitos cursos gratuítos na internet e aprendi muita, mas muita coisa mesmo na prática do dia a dia.
+Não senti a necessidade de ter uma formação profissional na faculdade, pois ela não ensina tudo que eu preciso saber, sempre fui uma pessoa de correr atrás do que realmente quer, então todo conhecimento e experiências foi de pesquisas, cursos, trabalho e muita dedicação.
 
 ### Competências
 * Uso de boas práticas em integrações com API de terceiros
