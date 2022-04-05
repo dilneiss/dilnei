@@ -45,7 +45,7 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 * Entusiasta com MVC, Design Patterns e SOLID
 * Bons conhecimentos de desenvolvimento orientado a testes (TDD)
 * Desenvolvimento avançado com mensagerias
-* Uso e prefiro muito trabalhar com frameworks como o Laravel, onde tenho experiência desde 2004
+* Uso e prefiro muito trabalhar com frameworks como o Laravel
 * Trabalho com banco de dados Mysql desde 2002
 * Desenvolvo em sistemas SASS e com hospedagem na AWS
 * Versionamento com GIT e CI / CD para deployar a aplicação
