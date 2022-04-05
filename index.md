@@ -51,6 +51,62 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 * Versionamento com GIT e CI / CD para deployar a aplicação
 * Especialista na resolução de problemas para encontrar, traçar uma resolução, corrigir, testar, aplicar testes automatizados.
 
+### Conhecimentos
+#### Back-End / Frameworks
+* PHP ![badge](https://img.shields.io/badge/Avançado-desde_2002-blue)
+* Laravel ![badge](https://img.shields.io/badge/Avançado-desde_2016-blue)
+* Lumen ![badge](https://img.shields.io/badge/Avançado-desde_2016-blue)
+* Slim ![badge](https://img.shields.io/badge/Avançado-Desde_2018-blue)
+* Code Igniter ![badge](https://img.shields.io/badge/Médio-desde_2021-green)
+* Node JS ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
+* C# + .NET ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
+* Python ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
+* Go lang ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
+* Testes Unitários (PHPUnit) ![badge](https://img.shields.io/badge/Avançado-desde_2018-blue)
+
+#### Front-End / Frameworks
+* CSS ![badge](https://img.shields.io/badge/Básico-desde_2002-yellow)
+* SCSS ![badge](https://img.shields.io/badge/Básico-desde_2016-yellow)
+* Javascript ![badge](https://img.shields.io/badge/Avançado-desde_2002-blue)
+* Bootstrap ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
+* Material Design ![badge](https://img.shields.io/badge/Básico-desde_2019-yellow)
+* Angular ![badge](https://img.shields.io/badge/Avançado-desde_2017-blue)
+* Vue ![badge](https://img.shields.io/badge/Avançado-desde_2021-blue)
+* Conhecimento de Boas Práticas para SEO ![badge](https://img.shields.io/badge/Avançado-desde_2012-blue)
+
+#### Banco de dados / Serviços de Cache
+* Mysql ![badge](https://img.shields.io/badge/Avançado-desde_2002-blue)
+* Postgresql ![badge](https://img.shields.io/badge/Avançado-desde_2018-blue)
+* MongoDB ![badge](https://img.shields.io/badge/Aprendendo-desde_2020-lightgrey)
+* Redis ![badge](https://img.shields.io/badge/Avançado-desde_2015-blue)
+* Memcached ![badge](https://img.shields.io/badge/Básico-desde_2015-yellow)
+
+#### Ambiente
+* Docker ![badge](https://img.shields.io/badge/Básico-desde_2020-yellow)
+* Laradock ![badge](https://img.shields.io/badge/Básico-desde_2020-yellow)
+* Xampp ![badge](https://img.shields.io/badge/Avançado-desde_2012-blue)
+
+#### Arquiteturas
+* MVC ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
+* Rest ![badge](https://img.shields.io/badge/Avançado-desde_2012-blue)
+* Soap ![badge](https://img.shields.io/badge/Avançado-desde_2012-blue)
+
+#### Devops
+* Cpanel ![badge](https://img.shields.io/badge/Avançado-desde_2008-blue)
+* Amazon AWS ![badge](https://img.shields.io/badge/Médio-desde_2016-orange)
+* CI/CD ![badge](https://img.shields.io/badge/Avançado-desde_2018-blue)
+
+#### Outros
+* Jira ![badge](https://img.shields.io/badge/Avançado-desde_2012-blue)
+* Git + Gitflow ![badge](https://img.shields.io/badge/Avançado-desde_2016-blue)
+* Kanbam ![badge](https://img.shields.io/badge/Avançado-desde_2012-blue)
+* Agile ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
+* Scrum ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
+* OKR ![badge](https://img.shields.io/badge/Básico-desde_2020-yellow)
+* Design Patterns ![badge](https://img.shields.io/badge/Avançado-desde_2018-blue)
+* Orientação a Objetos (POO) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
+* Mensageria (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
+
 ### Idiomas
 Inglês Avançado (Consigo ler/escrever sem nenhuma dificuldade, consigo escutar e entender 95% das falas, consigo falar muito em inglês também, porém como não pratico muito no dia a dia, tenho um pouco de dificuldades, mas pretendo trabalhar nisso pra não ter nenhuma barreira)
 
