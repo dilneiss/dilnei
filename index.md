@@ -7,7 +7,7 @@ Hoje minha experiência resumida seria:
 * 6 anos com Laravel. 
 * Também trabalho muito com: Lumen, Slim, Codeigniter, VueJS, Angular.
 * Experiente em testes unitários, integração e ponta a ponta.
-* Tenho ampla experiência em metodologias Ágeis.
+* Tenho ampla experiência em metodologias Ágeis e Ciclo de vida de desenvolvimento de software (SDLC).
 * Sou energético, independente e capaz de navegar por situações de alto estresse para atingimento de objetivos.
 
 ### Áreas que trabalhei (Mais Recentes Primeiro)
