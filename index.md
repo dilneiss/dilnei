@@ -12,14 +12,14 @@ Hoje minha experiência resumida seria:
 
 ### Áreas que trabalhei (Mais Recentes Primeiro)
 
-#### Desenvolvedor Fullstack, squad financeiro - Conecta Lá 06/2021
+#### Desenvolvedor Backend, squad financeiro - Conecta Lá 06/2021
 * Integrações com API de gateways de pagamento
 * Integrações com Marketplaces e Hubs
 * Desenvolvimento de API Restful para a loja virtual
 * Monitoramento e manutenção de erros no sistema.
 * Otimização de desempenho de processos
 
-#### Desenvolvedor Fullstack - Climba Commerce 01/2012 - 06/2021
+#### Desenvolvedor Backend - Climba Commerce 01/2012 - 06/2021
 * Integrações com API de gateways de pagamento
 * Integrações com API de transportadoras
 * Integrações com Marketplaces e Hubs
