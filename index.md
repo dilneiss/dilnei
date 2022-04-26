@@ -55,13 +55,7 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 #### Back-End / Frameworks
 * PHP ![badge](https://img.shields.io/badge/Avançado-desde_2002-blue)
 * Laravel ![badge](https://img.shields.io/badge/Avançado-desde_2016-blue)
-* Lumen ![badge](https://img.shields.io/badge/Avançado-desde_2016-blue)
 * Slim ![badge](https://img.shields.io/badge/Avançado-Desde_2018-blue)
-* Code Igniter ![badge](https://img.shields.io/badge/Médio-desde_2021-green)
-* Node JS ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
-* C# + .NET ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
-* Python ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
-* Go lang ![badge](https://img.shields.io/badge/Aprendendo-desde_2021-lightgrey)
 * Testes Unitários (PHPUnit) ![badge](https://img.shields.io/badge/Avançado-desde_2018-blue)
 
 #### Front-End / Frameworks
@@ -107,11 +101,8 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 * Orientação a Objetos (POO) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
 * Mensageria (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
 
-### Idiomas
-Inglês Avançado (Consigo ler/escrever sem nenhuma dificuldade, consigo escutar e entender 95% das falas, consigo falar muito em inglês também, porém como não pratico muito no dia a dia, tenho um pouco de dificuldades, mas pretendo trabalhar nisso pra não ter nenhuma barreira)
-
 ### Por que devo ser contratado?
-Não sou apenas mais um programador no mundo, sou um programador que é apaixonado pelo que faz, adora aprender sempre coisas novas, não tem medo de um desafio e dá o jeito de entregar o trabalho sempre com a melhor qualidade possível. Sou muito exigente consigo mesmo.
+Sou um programador que é apaixonado pelo que faz, adora aprender sempre coisas novas, não tem medo de um desafio e dá o jeito de entregar o trabalho sempre com a melhor qualidade possível.
 
 ### Contatos
 * E-mail pessoal: dilnei.soethe@gmail.com
