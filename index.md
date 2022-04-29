@@ -17,6 +17,7 @@ Iniciei aqui como programador Senior.
 Habilidades usadas durante todo o tempo aqui: PHP, Code Igniter, Mysql, REST, Bootstrap, Vue.js, javascript.
 A Conecta lá é uma plataforma que oferece soluções completas para quem quer vender no Marketplace e também até mesmo para grandes Marketplaces gerenciarem seus negócios, como conciliação financeira aos vendedores. 
 Trabalhamos hoje com grandes marcar, como: Reserva, Grupo Soma, Ortobon, polishop, decathlon etc..
+Alguns dos meus serviços na Conecta Lá:
 * Integrações com API de gateways de pagamento
 * Integrações com Marketplaces e Hubs
 * Desenvolvimento de API Restful para a loja virtual
