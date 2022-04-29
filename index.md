@@ -13,6 +13,10 @@ Hoje minha experiência resumida seria:
 ### Áreas que trabalhei (Mais Recentes Primeiro)
 
 #### Desenvolvedor Backend, squad financeiro - Conecta Lá 06/2021
+Iniciei aqui como programador Senior.
+Habilidades usadas durante todo o tempo aqui: PHP, Code Igniter, Mysql, REST, Bootstrap, Vue.js, javascript.
+A Conecta lá é uma plataforma que oferece soluções completas para quem quer vender no Marketplace e também até mesmo para grandes Marketplaces gerenciarem seus negócios, como conciliação financeira aos vendedores. 
+Trabalhamos hoje com grandes marcar, como: Reserva, Grupo Soma, Ortobon, polishop, decathlon etc..
 * Integrações com API de gateways de pagamento
 * Integrações com Marketplaces e Hubs
 * Desenvolvimento de API Restful para a loja virtual
@@ -20,6 +24,11 @@ Hoje minha experiência resumida seria:
 * Otimização de desempenho de processos
 
 #### Desenvolvedor Backend - Climba Commerce 01/2012 - 06/2021
+Iniciei aqui como programador Junior.
+Habilidades usadas durante todo o tempo aqui: PHP, Slim Framework, Mysql, Redis, Docker, RabbitMQ, REST, Bootstrap, Angular, Javascript, SCSS, AWS, Cloudflare.
+Inicialmente a Climba era uma fábrica de softwares, onde desenvolvia sites, sistemas e ecommerce. 
+Posteriormente paramos com sites e sistemas, e tornamos em um produto único, que seria uma plataforma SASS de ecommerce, hospedado na AWS. 
+Lá dentro tive participação em todos os produtos existentes até 06/2021, onde algúns deles seriam: 
 * Integrações com API de gateways de pagamento
 * Integrações com API de transportadoras
 * Integrações com Marketplaces e Hubs
@@ -27,6 +36,7 @@ Hoje minha experiência resumida seria:
 * Desenvolvimento de ambiente de integração para sistemas ERP
 * Monitoramento e manutenção de erros no sistema.
 * Otimização de desempenho de processos
+* Desenvolvimento de integrações com filas (RabbitMQ)
 * Testes automatizados (Unitário, Integração, Ponta a Ponta)
 
 #### Técnico de Informática - Tchê Presentes 01/2007 - 01/2012
@@ -34,6 +44,15 @@ Hoje minha experiência resumida seria:
 * Prevenção e resolução de problemas comuns de conectividade.
 * Uso de métodos para melhoria de processos a fim de aprimorar a qualidade do serviço.
 * Criação e manutenção de redes de computadores em empresas, escolas, órgãos públicos, hospitais e residências.
+
+### Outras experiências 
+* Trabalho atualmente em um sistema próprio para realizar integrações de produtos com os Marketplaces, onde nesse sistema eu o uso para treinamento próprio diário. Nele eu estou usando o framework laravel, sempre seguindo as melhores práticas e ferramentas, como: Clean Code, Orientação a Objeto, Design Patterns, Mensagerias, Laravel Forge, Laravel Vapor, Laravel Backpack etc.. Explorando cada parte do laravel e mantendo a mente sempre afiada no Laravel.
+* Criei sistema de organização de mídias físicas, para facilmente encontra-las (tinha muitas em casa)
+* Criei e comercializei sistema de controle de ordem de serviço para manutenção de celulares.
+* Criei e comercializei sistema de controle de ordem de serviço para manutenção de Computadores.
+- Criei ecommerce para realizar vendas de produtos com dropshipping (e ter uma renda extra)
+- Criei um blog em wordpress para tutoriais em gerais (hoje não está mais no ar)
+- Criei um site para hospedagem de links e cupons de descontos de lojas virtuais - https://www.bembarato.org 
 
 ### Formação
 Não senti a necessidade de ter uma formação profissional na faculdade, pois ela não ensina tudo que eu preciso saber, sempre fui uma pessoa de correr atrás do que realmente quer, então todo conhecimento e experiências foi de pesquisas, cursos, trabalho e muita dedicação.
