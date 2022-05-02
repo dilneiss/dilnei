@@ -9,6 +9,7 @@ Hoje minha experiência resumida seria:
 * Experiente em testes unitários, integração e ponta a ponta.
 * Tenho ampla experiência em metodologias Ágeis e Ciclo de vida de desenvolvimento de software (SDLC).
 * Sou energético, independente e capaz de navegar por situações de alto estresse para atingimento de objetivos.
+* Forte desejo em aprendizado constante de novas tecnologias e metodologias.
 
 ### Áreas que trabalhei (Mais Recentes Primeiro)
 
