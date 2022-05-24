@@ -122,9 +122,6 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 * Orientação a Objetos (POO) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
 * Mensageria (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
 
-### Por que devo ser contratado?
-Sou um programador que é apaixonado pelo que faz, adora aprender sempre coisas novas, não tem medo de um desafio e dá o jeito de entregar o trabalho sempre com a melhor qualidade possível.
-
 ### Contatos
 * E-mail pessoal: dilnei.soethe@gmail.com
 * Linkedin: https://www.linkedin.com/in/dilnei-soethe-spancerski-bn-sc/
