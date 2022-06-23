@@ -78,6 +78,9 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 * Laravel ![badge](https://img.shields.io/badge/Avançado-desde_2016-blue)
 * Slim ![badge](https://img.shields.io/badge/Avançado-Desde_2018-blue)
 * Testes Unitários (PHPUnit) ![badge](https://img.shields.io/badge/Avançado-desde_2018-blue)
+* Octane ![badge](https://img.shields.io/badge/Avançado-desde_2021-blue)
+* Vapor ![badge](https://img.shields.io/badge/Iniciante-desde_2021-blue)
+* Forge ![badge](https://img.shields.io/badge/Avançado-desde_2021-blue)
 
 #### Front-End / Frameworks
 * CSS ![badge](https://img.shields.io/badge/Básico-desde_2002-yellow)
@@ -121,6 +124,9 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 * Design Patterns ![badge](https://img.shields.io/badge/Avançado-desde_2018-blue)
 * Orientação a Objetos (POO) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
 * Mensageria (Redis, RabbitMQ) ![badge](https://img.shields.io/badge/Avançado-desde_2014-blue)
+
+### Projetos em que eu trabalhei ou tenho trabalhado
+* Bem Barato - https://www.bembarato.org/ - Feito em Laravel
 
 ### Contatos
 * E-mail pessoal: dilnei.soethe@gmail.com
