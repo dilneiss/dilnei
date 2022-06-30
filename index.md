@@ -131,3 +131,4 @@ Não senti a necessidade de ter uma formação profissional na faculdade, pois e
 ### Contatos
 * E-mail pessoal: dilnei.soethe@gmail.com
 * Linkedin: https://www.linkedin.com/in/dilnei-soethe-spancerski-bn-sc/
+* Whatsapp: +55 (48)9.9633-8116
